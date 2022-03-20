@@ -73,3 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 create another build
+After going through every process of project 9, i finally completed it Thanks
